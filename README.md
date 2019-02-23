@@ -2,6 +2,12 @@
 
 这个仓库任务就是提供最基本的 Git/GitHub 操作指导，让更多的 CASDUERs 参与进来。
 
+## ssh-key
+### why
+### how
+[ssh](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+
 # 新手任务
 
 ## [Dress - 面向可爱的蓝孩子 (/ω＼) 的 git 学习实践项目 on GitHub](https://github.com/komeiji-satori/Dress)
