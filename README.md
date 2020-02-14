@@ -17,7 +17,7 @@
 
 离开山大这些年，我依旧喜欢骑车。而且从以前的毫无章法，变得稍微有点结构化。Training 那个仓库，就是我自己平时用到数据。对我来说，这些数据是我每天都会用到的，我觉得别人或许能够用上，所以就把它放在了 casdu， 也就是我们的组织账号里。怎么说呢，如果日常的车协生活，或者你觉得与自行车相关的东西，都可以放在上面。
 
-其实我也不知道， casdu + GitHub， 能产生什么样的[故事](https://github.com/randomwangran/logo-physics#why-this-rep)，只是觉得好玩，如果你也觉得好玩，不如我们一起玩吧。
+其实我也不知道， casdu + GitHub， 能产生什么样的[故事](https://github.com/randomwangran/logo-physics/blame/master/README.md#L35)，只是觉得好玩，如果你也觉得好玩，不如我们一起玩吧。
 
 
 ## SSH key
