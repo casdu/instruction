@@ -23,6 +23,12 @@
 
 ## Goal
 
+### about Git
+
+What is Git?
+
+
+
 ### basic
 
 -克隆项目: it's like copying to your computer
@@ -39,9 +45,7 @@
 
 -到合并分支请求 everybody agree.
 
-### about Git
 
-What is Git?
 
 ### about GitHub
 
