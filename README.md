@@ -23,6 +23,8 @@
 
 ## Goal
 
+### basic
+
 -克隆项目: it's like copying to your computer
 
 
@@ -37,11 +39,13 @@
 
 -到合并分支请求 everybody agree.
 
-### SSH key
-#### why
-[用 git 是会上瘾的。](https://github.com/randomwangran)一个工具，如果特别容易使用，并且实实在在给你带来一些便利，而且你能意识到的它的话，那么就会上瘾。 [但是，有一个前提，这个工具必须非常容易上手。](https://github.com/casdu/huikan/blame/master/2012.md#L23)试想每天用微信的时候，如果每次聊天的时候，你都被要求输入密码，我相信我们大部分人都会极其反感使用微信。
+### about Git
 
-添加 SSH key 到你的远程仓库干的就是这样一件事情：帮助你成瘾 git 。 
+What is Git
 
-#### advance
-[ssh](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+### about GitHub
+
+1. watch
+2. start
+3. issue
+4. comment
