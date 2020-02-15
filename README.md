@@ -42,7 +42,7 @@
 -同步修改: maybe some small changes but not a big deal
 
 
-- 到合并分支请求 everybody agree.
+-到合并分支请求 everybody agree.
 
 #### advance
 [ssh](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
