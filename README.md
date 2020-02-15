@@ -19,16 +19,7 @@
 
 其实我也不知道， casdu + GitHub， 能产生什么样的[故事](https://github.com/randomwangran/logo-physics/blame/master/README.md#L35)，只是觉得好玩，如果你也觉得好玩，不如我们一起玩吧。
 
-
-## SSH key
-### why
-[用 git 是会上瘾的。](https://github.com/randomwangran)一个工具，如果特别容易使用，并且实实在在给你带来一些便利，而且你能意识到的它的话，那么就会上瘾。 [但是，有一个前提，这个工具必须非常容易上手。](https://github.com/casdu/huikan/blame/master/2012.md#L23)试想每天用微信的时候，如果每次聊天的时候，你都被要求输入密码，我相信我们大部分人都会极其反感使用微信。
-
-添加 SSH key 到你的远程仓库干的就是这样一件事情：帮助你成瘾 git 。 
-### how
-
-
-#### basic
+## How
 
 -克隆项目: it's like copying to your computer
 
@@ -44,11 +35,17 @@
 
 -到合并分支请求 everybody agree.
 
+### SSH key
+#### why
+[用 git 是会上瘾的。](https://github.com/randomwangran)一个工具，如果特别容易使用，并且实实在在给你带来一些便利，而且你能意识到的它的话，那么就会上瘾。 [但是，有一个前提，这个工具必须非常容易上手。](https://github.com/casdu/huikan/blame/master/2012.md#L23)试想每天用微信的时候，如果每次聊天的时候，你都被要求输入密码，我相信我们大部分人都会极其反感使用微信。
+
+添加 SSH key 到你的远程仓库干的就是这样一件事情：帮助你成瘾 git 。 
+
 #### advance
 [ssh](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
-# 新手任务
+# 新手任务 (Other project)
 
 ## [Dress - 面向可爱的蓝孩子 (/ω＼) 的 git 学习实践项目 on GitHub](https://github.com/komeiji-satori/Dress)
 
