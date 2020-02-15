@@ -26,6 +26,25 @@
 
 添加 SSH key 到你的远程仓库干的就是这样一件事情：帮助你成瘾 git 。 
 ### how
+
+
+#### basic
+
+-克隆项目: it's like copying to your computer
+
+
+-创建分支: it's like making your owner verion of the thing
+
+
+-提交: you want everybody else to agree with your idea
+
+
+-同步修改: maybe some small changes but not a big deal
+
+
+- 到合并分支请求 everybody agree.
+
+#### advance
 [ssh](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
