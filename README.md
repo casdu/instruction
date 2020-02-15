@@ -19,7 +19,7 @@
 
 其实我也不知道， casdu + GitHub， 能产生什么样的[故事](https://github.com/randomwangran/logo-physics/blame/master/README.md#L35)，只是觉得好玩，如果你也觉得好玩，不如我们一起玩吧。
 
-## How
+## Goal
 
 -克隆项目: it's like copying to your computer
 
