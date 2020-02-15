@@ -25,7 +25,7 @@
 
 ### about Git
 
-What is Git?
+[What is Git?](https://guides.github.com/introduction/git-handbook/)
 
 
 
