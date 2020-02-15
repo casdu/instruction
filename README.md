@@ -1,4 +1,6 @@
 **积极更新中,各位 Casdu,请你们把各种疑惑都提出来,我们来负责回答.**
+** it's not an easy task for you, same for us **
+** but if you want, we can make it **
 
 # 新手指导
 
