@@ -41,7 +41,7 @@
 
 ### about Git
 
-What is Git
+What is Git?
 
 ### about GitHub
 
