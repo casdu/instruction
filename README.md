@@ -30,7 +30,7 @@
 ### about Git
 
 [What is Git?](https://guides.github.com/introduction/git-handbook/)
-
+[![Git Xkcd](https://img.shields.io/badge/xkcd-git-orange.svg)](https://xkcd.com/1597)
 
 
 ### basic
