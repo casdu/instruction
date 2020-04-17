@@ -92,6 +92,9 @@
 *   **解决办法**：[GitHub 的搜索功能](https://blog.csdn.net/csdnnews/article/details/86570635)
 *   **用时**：to be continue...
 
+*   **问题阐述4**：[GitHub 使用小技巧。](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+
+
 ## 最后谈一些我对于Github 的理解:
 
 Github是一个和论坛很类似的平台，和论坛做对比的话，论坛的帖子就像一本本已经装订好的本子，而这个本子一开始是楼主所有的由他进行书写。
