@@ -90,6 +90,8 @@
 
 *   **问题阐述3**：我想搜索更多有意思的仓库。
 *   **解决办法**：[GitHub 的搜索功能](https://blog.csdn.net/csdnnews/article/details/86570635)
+*   **解决办法**：[Find RSS](https://github.com/guanguans/favorite-link)
+
 *   **用时**：to be continue...
 
 *   **问题阐述4**：[GitHub 使用小技巧。](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
